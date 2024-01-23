@@ -1,4 +1,12 @@
 /*  your css code here. If applicable */
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+color:white;
+	background-color:green;
+}
 .modal
 {
 	display:none;
